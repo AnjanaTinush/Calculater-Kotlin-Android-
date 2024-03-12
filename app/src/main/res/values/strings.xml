@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Calculator</string>
+    <string name="app_name">Calculater</string>
+    <string name="hint1">Enter number 01</string>
+    <string name="hint2">Enter number 02</string>
 </resources>
